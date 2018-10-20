@@ -1,0 +1,11 @@
+package sprint1;
+
+public class Answer extends Post{
+	
+	Answer(){
+		
+	}
+	
+	
+
+}
